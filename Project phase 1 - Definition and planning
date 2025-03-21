@@ -1,9 +1,41 @@
 1. User Personas
 
+Uudet pelaajaat - haluavat löytää perustiedot pelistä, ajoneuvoista ja pelimekaniikasta helposti ymmärrettävässä muodossa.
+Historiaintoilija - kiinnostunut ajoneuvojen historiallisista taustoista ja autenttisuudesta pelissä.
+Kilpapelaaja - etsii syvällistä tietoa metapelistä, tehokkaimmista ajoneuvoista ja strategioista
+Moderaattori - ylläpitää ja päivittää wiki-sisältöä, varmistaa tietojen oikeellisuuden ja rakenteen.
+
 2. Use Cases and User Flows
+
+Uusi pelaaja etsii oppaita perusmekaniikoista - Navigoi "Aloittelijan opas" -osioon.
+Historiaintoilija haluaa tietoa tietystä tankista - Siirtyy ajoneuvojen tietokantaan.
+Kilpapelaaja vertaa lentokoneiden ominaisuuksia - Katsoo taulukoita, joissa on vertailtu suorituskykyä.
+Moderaattori lisää uutta sisältöä - Kirjautuu sisään ja muokkaa tietokantaa.
 
 3. UI Prototypes
 
+Etusivu - Selkeä päävalikko, jossa pääkategoriat (Ajoneuvot, Oppaat, Historia, Päivitykset).
+Ajoneuvosivut - Taulukko ajoneuvon tiedoista, kuvia, historiallista tietoa ja pelisuorituskykyanalyysi.
+Oppaat ja vinkit - Visuaaliset oppaat, joissa korostetaan tehokkaimpia pelitaktiikoita.
+
+
 4. Information Architecture and Technical Design
 
+Tietokantarakenne: Ajoneuvot (nimike, tyyppi, BR-arvo, historiatiedot)
+
+
+
+
 5. Project Management and User Testing
+
+Projektin vaiheet:
+
+Määrittely (käyttäjätarpeiden selvittäminen)
+Rakenne (tietokanta, sivupohjat)
+Sisällöntuotanto (artikkelien ja tietojen lisääminen)
+Käyttöliittymä (UI-testaukset ja optimointi)
+Julkaisu
+
+Testaus:
+
+Beta-testaus: Käyttäjät voivat raportoida puutteista ja ehdottaa parannuksia.
