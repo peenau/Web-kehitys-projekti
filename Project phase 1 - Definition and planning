@@ -1,47 +1,124 @@
-Vaihe 1 - Määrittely ja suunnittelu
+Vaihe 1 - Määrittely ja suunnittelu 
 
-Valitsimme käyttötapauksien määräksi 2 koska koemme että se vastaa tavoitteitamme
-Eri käyttötapauksemme tulisivat olemaan jonkin lainen wiki sivusto warthunder peliin liittyen ja sivu sisältäisi jonkinlaisia verkkokauppa ominaisuuksia!
+  
 
+Valitsimme käyttötapauksien määräksi 2 koska koemme että se vastaa tavoitteitamme. 
 
-1. User Personas
+Eri käyttötapauksemme tulisivat olemaan jonkin lainen wiki sivusto War thunder peliin liittyen ja sivu sisältäisi jonkinlaisia verkkokauppa ominaisuuksia! 
 
-Uudet pelaajaat - haluavat löytää perustiedot pelistä, ajoneuvoista ja pelimekaniikasta helposti ymmärrettävässä muodossa.
-Historiaintoilija - kiinnostunut ajoneuvojen historiallisista taustoista ja autenttisuudesta pelissä.
-Kilpapelaaja - etsii syvällistä tietoa metapelistä, tehokkaimmista ajoneuvoista ja strategioista
-Moderaattori - ylläpitää ja päivittää wiki-sisältöä, varmistaa tietojen oikeellisuuden ja rakenteen.
+  
 
-2. Use Cases and User Flows
+  
 
-Uusi pelaaja etsii oppaita perusmekaniikoista - Navigoi "Aloittelijan opas" -osioon.
-Historiaintoilija haluaa tietoa tietystä tankista - Siirtyy ajoneuvojen tietokantaan.
-Kilpapelaaja vertaa lentokoneiden ominaisuuksia - Katsoo taulukoita, joissa on vertailtu suorituskykyä.
-Moderaattori lisää uutta sisältöä - Kirjautuu sisään ja muokkaa tietokantaa.
+1. User Personas 
 
-3. UI Prototypes
+  
 
-Etusivu - Selkeä päävalikko, jossa pääkategoriat (Ajoneuvot, Oppaat, Historia, Päivitykset).
-Ajoneuvosivut - Taulukko ajoneuvon tiedoista, kuvia, historiallista tietoa ja pelisuorituskykyanalyysi.
-Oppaat ja vinkit - Visuaaliset oppaat, joissa korostetaan tehokkaimpia pelitaktiikoita.
+Uudet Pelaajat  
 
+Haluavat löytää perustiedot pelistä, ajoneuvoista ja pelimekaniikasta helposti ymmärrettävässä muodossa esim.
+Erilaisten panosten panssarin läpäisy kyky tai ajoneuvon maksimi nopeus. 
 
-4. Information Architecture and Technical Design
+Historiaintoilija   
 
-Tietokantarakenne: Ajoneuvot (nimike, tyyppi, BR-arvo, historiatiedot)
+Kiinnostunut ajoneuvojen historiallisista taustoista ja realistisuudesta pelissä. 
 
+Kilpapelaaja   
 
+Etsii syvällistä tietoa metapelistä, parhaista tankeista, lentokoneista tai laivoista sekä strategioista esim. 
+Mappi kohtaiset parhaat kämppi paikat. 
 
+Moderaattori 
 
-5. Project Management and User Testing
+Ylläpitää ja päivittää wiki-sisältöä varmistaa tietojen paikkansapitävyyden sekä historiallisen tarkkuuden. 
 
-Projektin vaiheet:
+  
 
-Määrittely (käyttäjätarpeiden selvittäminen)
-Rakenne (tietokanta, sivupohjat)
-Sisällöntuotanto (artikkelien ja tietojen lisääminen)
-Käyttöliittymä (UI-testaukset ja optimointi)
-Julkaisu
+2. Use Cases and User Flows 
 
-Testaus:
+  
 
-Beta-testaus: Käyttäjät voivat raportoida puutteista ja ehdottaa parannuksia.
+Uusi pelaaja  
+
+Etsii tietoa pelin perus mekaniikoista ja menee aloittelijan opas osioon. 
+
+Historiaintoilija 
+
+Haluaa tietoa tietystä tankista - Siirtyy ajoneuvojen tietokantaan, josta hän voi etsiä historiallista tietoa jostakin tietystä tankista esim.
+Kuinka paksu on Tiger (H) 1 yläpellin paksuus milleinä. 
+
+ 
+
+Kilpapelaaja  
+
+Vertaa lentokoneiden ominaisuuksia - Katsoo taulukoita, joissa on vertailtu suorituskykyä eri lentokoneilla esim.
+Kummassa lentokoneessa on enemmän hevosvoimia, isompi kaliperiset aseet ja parempi kääntyvyys. 
+
+Moderaattori  
+
+Lisää uutta sisältöä - Kirjautuu sisään ja muokkaa tietokantaa. 
+
+ 
+
+  
+
+3. UI Prototypes 
+
+  
+
+Etusivu - Selkeä päävalikko, jossa pääkategoriat (Ajoneuvot, Oppaat, Historia, Päivitykset). 
+
+Ajoneuvosivut - Taulukko ajoneuvon tiedoista, kuvia, historiallista tietoa ja pelisuorituskykyanalyysi. 
+
+Oppaat ja vinkit - Visuaaliset oppaat, joissa korostetaan tehokkaimpia pelitaktiikoita. 
+
+  
+
+  
+
+4. Information Architecture and Technical Design 
+
+  
+
+Tietokantarakenne: Emme ole vielä varmoja, miten käyttäisimme projektissamme tietokantaa.
+Ajatuksen tasolla mietimme esim. Rekisteröidyt premium käyttäjät olisi tiedossa ja mahdollisesti tiedot tankeista, 
+lentokoneista ja laivoista olisivat tietokannassa, jos saamme sen toimimaan halutulla tavalla. 
+
+  
+
+  
+
+  
+
+  
+
+5. Project Management and User Testing 
+
+Prototyypin testaus: 
+
+Testasimme prototyyppiämme Jenni Peltolalla, jonka mielestä käyttöliittymä oli selkeä ja helposti ymmärrettävä, 
+vaikka aihealueesta hän ei juurikaan ymmärtänyt entuudestaan. 
+Hän osasi navigoida sivua sujuvasti erilaisten painikkeiden avulla, joita visuaaliset kuvat olivat selkeyttämässä. 
+
+  
+
+ 
+
+Projektin vaiheet: 
+
+Määrittely (käyttäjätarpeiden selvittäminen) 
+
+Kuten aikaisemmin selitimme user personas kohdassa sivullamme tulee olemaan erityylisiä käyttäjiä,
+jotka hakevat sivultamme jopa hyvinkin erilaista informaatiota joku saattaa hakea tietoa lentokoneen huippu nopeuksista, 
+kun taas toinen käyttäjä saattaa olla kiinnostunut tämän hetken parhaista tankeista joillekkin tietylle battle ratingille esim.
+6.7 battle ratingille Tiger 2 (H) on varma valinta hyvän panssarinsa ja tykkinsä ansiosta. 
+
+ 
+
+Vaiheistus: Projekti jaetaan selkeisiin vaiheisiin (suunnittelu, kehitys, testaus, julkaisu). 
+
+Aikataulu: Käytetään sprinttejä tai vaiheittaisia julkaisuja wikin kehittämiseen. 
+
+Viestintä: Hyödynnetään Discordia, Wordia tai GitHubia tehtävien ja palautteen hallintaan. 
+
+  
