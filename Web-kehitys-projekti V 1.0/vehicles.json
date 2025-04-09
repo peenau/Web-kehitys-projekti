@@ -1,0 +1,28 @@
+[
+    {
+        "name": "T-34",
+        "type": "tanks",
+        "description": "Neuvostoliittolainen toisen maailmansodan aikainen keskiraskas panssarivaunu.",
+        "image": "t34.jpg"
+    },
+	{
+        "name": "Leopard 2A6",
+        "type": "tanks",
+        "description": "hyvä tankki ja näin jenkit wohoo",
+        "image": "leopard_2a6.jpg"
+    },
+    {
+        "name": "P-51 Mustang",
+        "type": "planes",
+        "description": "Yhdysvaltalainen hävittäjälentokone, joka tunnetaan pitkän kantaman saattajatehtävistä.",
+        "image": "mustang.jpg"
+    },
+    {
+        "name": "Bismarck",
+        "type": "ships",
+        "description": "Saksan laivaston kuuluisa taistelulaiva toisen maailmansodan ajalta.",
+        "image": "bismarck.jpg"
+    }
+	
+	
+]
