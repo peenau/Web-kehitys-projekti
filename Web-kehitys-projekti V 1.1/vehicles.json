@@ -1,0 +1,126 @@
+[
+
+		
+    {
+        "name": "T-34",
+        "type": "tanks",
+        "description": "T-34 on Neuvostoliittolainen toisen maailmansodan aikainen keskiraskas panssarivaunu, joka tunnetaan kestävyydestään, liikkumisestaan ja tehokkuudestaan taistelukentällä. Sen kallistettu panssari ja tehokas 76,2 mm:n tykki tekivät siitä yhden sodan merkittävimmistä vaunuista. T-34:llä oli keskeinen rooli Saksan vastaan taistellessa Itä-rintamalla.",
+        "image": "t34.jpg"
+    },
+	{
+        "name": "Leopard 2A6",
+        "type": "tanks",
+        "description": "Leopard 2A6 on saksalainen nykyaikainen päätaistelupanssarivaunu, joka on suunniteltu tarjoamaan erinomaisen suojan, liikkuvuuden ja tulivoiman. Se on varustettu 120 mm:n smoothbore-tykillä ja sen panssari on erittäin kestävä, erityisesti sen etupanssari ja torni. Leopard 2A6 on yksi maailman tehokkaimmista panssarivaunuista, ja se on käytössä useissa maissa.",
+        "image": "leopard_2a6.jpg"
+    },
+	{
+        "name": "Tiger H1",
+        "type": "tanks",
+        "description": "Tiger I (Panzer VI) on saksalainen toisen maailmansodan aikainen raskas panssarivaunu, joka tunnetaan voimakkaasta 88 mm:n tykistään ja erinomaisesta panssaroinnistaan. Se oli yksi sodan pelätyimmistä vaunuista, mutta sen paino ja hitaus rajoittivat liikkuvuutta. Tiger I:llä oli keskeinen rooli Saksan taisteluissa itärintamalla ja Pohjois-Afrikassa.",
+        "image": "tigerh1.jpg"
+    },
+	{
+        "name": "Sherman II",
+        "type": "tanks",
+        "description": "Sherman II (M4A2 Sherman) on amerikkalainen toisen maailmansodan aikainen keskiraskas panssarivaunu, joka oli yksi liittoutuneiden pääaseista. Se oli varustettu 75 mm:n tykillä ja tunnettiin luotettavuudestaan ja helppokäyttöisyydestään. Sherman II:ta käytettiin laajasti eri taistelukentillä, ja sen tehokkuus, vaikka ei ollutkaan yhtä hyvin panssaroitu kuin Saksan vaunut, oli sen liikkuvuudessa ja suurissa tuotantomäärissä.",
+        "image": "sherman2.jpg"
+    },
+	{
+        "name": "Pz.Kpfw. VIII Maus",
+        "type": "tanks",
+        "description": "Maailman raskain panssarivaunu. Pz.Kpfw. VIII Maus oli natsi-Saksan superraskas panssarivaunuprojekti toisen maailmansodan loppupuolelta. Se oli suunniteltu murskaavaksi, lähes tuhoutumattomaksi taistelukentän herraksi – ja painoi peräti 188 tonnia, tehden siitä raskaimman koskaan rakennetun panssarivaunun. ",
+        "image": "maus.jpg"
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    {
+        "name": "P-51 Mustang",
+        "type": "planes",
+        "description": "P-51 Mustang on Yhdysvaltalainen hävittäjälentokonesarja, joka tunnetaan erinomaisista lentotehoistaan ja pitkän kantaman kyvystään. Se oli tärkeä taistelukone toisen maailmansodan pommikoneiden suojelussa ja yksi sodan tehokkaimmista hävittäjistä.",
+        "image": "mustang.jpg"
+    },
+	{
+        "name": "Harrier GR3",
+        "type": "planes",
+        "description": "Harrier GR3 on brittiläinen monitoimilentokonesarja, joka tunnetaan pystysuorasta noususta ja laskusta (VTOL) sekä kyvystään toimia lyhyiltä ja keskikokoisilta aluksilta. Se oli tärkeä osa Britannian ilmavoimia kylmän sodan aikana.",
+        "image": "harrier_gr3.jpg"
+    },
+	{
+        "name": "Spitfire MK VC",
+        "type": "planes",
+        "description": "Spitfire Mk VC on brittiläinen toinen maailmansodan aikainen hävittäjälentokonesarja, joka tunnetaan erityisesti sen ketteryydestä ja taistelukyvyistään. Se oli varustettu Merlyn-vedenjäähdytteisellä V12-moottorilla ja oli varustettu kanuilla ja konekivääreillä. Mk VC oli yksi Spitfiren varhaisista muunnelmista, jossa oli vaihdettu siipien rakenne ja asennettu uudemmat aseet, mikä teki siitä tehokkaamman taistelukoneen. Se oli tärkeä osa Britannian taistelulentokonesarjaa toisen maailmansodan aikana.",
+        "image": "spitfire_mkvc.jpg"
+    },
+    {
+        "name": "IL-2 Sturmovik",
+        "type": "planes",
+        "description": " Neuvostoliiton Ilyushin IL-2 Sturmovik oli maailman eniten valmistettu sotilaslentokone (yli 36 000 kpl) ja toisen maailmansodan ikoni maataistelutuessa (CAS). Se oli tunnettu kestävyydestään, tulevoimastaan ja kyvystään tukea jalkaväkeä suoraan etulinjassa. IL-2 on erinomainen valinta aloittelijoille, jotka haluavat kokeilla maahyökkäystä.Kestää paljon osumaa ja pystyy tuhoamaan ajoneuvoja tarkasti.Heikko ketteryys tekee siitä haavoittuvan hävittäjille – suojaa tarvitaan. ",
+        "image": "il2.jpg"
+    },
+	{
+        "name": "B-17E",
+        "type": "planes",
+        "description": " Boeing B-17 Flying Fortress oli Yhdysvaltojen toisen maailmansodan raskas nelimoottorinen pommikone, joka tunnetaan erityisesti kestävyydestään, puolustustulivoimastaan ja strategisesta roolistaan Euroopan pommituksissa. B-17 on raskas pommikone, jolla voi aiheuttaa massiivista vahinkoa tukikohtiin ja maajoukkoihin. Erinomainen pommitarkkuus korkealta. ",
+        "image": "b17.jpg"
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+        "name": "New Orleans (1943)",
+        "type": "ships",
+        "description": "Tämä risteilijä edustaa Yhdysvaltain armeijan voimakasta laivastoa toisen maailmansodan aikana. Se on hyvin varusteltu, voimakkailla tykkitornilla ja torpedohyökkäyskyvyillä. Laiva on myös varustettu vahvalla ilmatorjunnalla, joka auttaa suojautumaan ilmapommituksilta.",
+        "image": "New_Orleans.jpg"
+    },
+	{
+        "name": "G-5 (1941)",
+        "type": "ships",
+        "description": "Pieni ja ketterä, G-5 on yksi Neuvostoliiton torpedoveneistä, joka pystyy suorittamaan salamannopeita hyökkäyksiä ja väistämään isompia aluksia. Se on varustettu torpedoilla, jotka voivat iskeä suurta vahinkoa vihollisten laivoille, mutta sen suojavarustus ei ole yhtä vahva kuin suuremmilla aluksilla.",
+        "image": "g5.jpg"
+    },
+	{
+        "name": "Mogami (1942)",
+        "type": "ships",
+        "description": "Mogami oli yksi Japanin laivaston tunnetuimmista taisteluristeilijöistä toisen maailmansodan aikana. Tämä laiva on varustettu suurella määrällä 155 mm:n tykkejä ja se on erittäin nopea ja ketterä. Sen vahvuus on erityisesti pitkän kantaman tulivoimassa, mutta se ei ole yhtä kestävä kuin suuremmat taisteluristeilijät.",
+        "image": "mogami.jpg"
+    },
+	{
+        "name": "HMS Hood(1920)",
+        "type": "ships",
+        "description": "HMS Hood oli yksi Britannian laivaston tunnetuimmista ja suurimmista taisteluristeilijöistä toisen maailmansodan aikana. Se oli varustettu 381 mm:n päätykeillä, jotka olivat erittäin tehokkaita pitkän kantaman taisteluissa. Hoodin suurin heikkous oli kuitenkin sen heikko panssari, joka teki siitä haavoittuvaisen suuremmille ammuksille. Se tunnetaan erityisesti siitä, että se upposi taistelussa Bismarckin kanssa, mikä oli suuri moraalinen isku Britanniassa.",
+        "image": "hms.jpg"
+    },
+	
+	{
+        "name": "Bismarck",
+        "type": "ships",
+        "description": "Bismarck oli Saksan laivaston kuuluisa taistelulaiva toisen maailmansodan ajalta. Se oli varustettu 38 cm:n tykeillä ja paksulla panssarilla, mikä teki siitä yhden sodan tehokkaimmista laivoista. Bismarck osallistui muun muassa HMS Hoodin upottamiseen ennen kuin se itse upotettiin vuonna 1941.",
+        "image": "bismarck.jpg"
+    }
+	
+	
+]
