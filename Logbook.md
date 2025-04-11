@@ -8,4 +8,4 @@
 | 22.3.2025 | 3 | Vaihe 1 suunnittelu | Tehty raportti | 
 | 9.4.2025 | 5 | Vaihe 2 | Tehty sivulle toimiva pohja ja  lisätty vähän sisältöä |
 | 10.4.2025 | 3 | Vaihe 2 | Edistetty sivun toimivuutta ja visuaalisesti päivitetty |
-| 11.4.2025 | 6 | Vaihe 2 | Virtuaalikone saatu käyttöön, tyyli tiedoston päivittelyä, aloittelijan opas ja aloitus sivu tehty loppuun, raportin tekoa |
+| 11.4.2025 | 7 | Vaihe 2 | Virtuaalikone saatu käyttöön, tyyli tiedoston päivittelyä, aloittelijan opas ja aloitus sivu tehty loppuun, raportin tekoa |
