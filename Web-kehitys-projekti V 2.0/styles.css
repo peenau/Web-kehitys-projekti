@@ -1,0 +1,176 @@
+/* Yleiset tyylit */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2e2e2e;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: red;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Logo headerissa */
+header img {
+    height: 60px;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex: 1;
+}
+
+nav button {
+    background-color: #ddd;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+/* Main content */
+main {
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+/* Otsikot */
+main h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+main h2 {
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+    border-bottom: 2px solid #555;
+    padding-bottom: 10px;
+}
+
+main h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 1.4em;
+    color: #e0e0e0;
+}
+
+/* Tekstikappaleet ja listat */
+main p {
+    line-height: 1.7;
+    margin-bottom: 25px;
+}
+
+main ul {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+
+main li {
+    margin-bottom: 10px;
+}
+
+/* Korttimaiset osiot */
+section, article {
+    background-color: #3a3a3a;
+    border-radius: 10px;
+    padding: 25px;
+    margin-bottom: 50px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+/* Taulukko */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+table th,
+table td {
+    border: 1px solid #666;
+    padding: 12px;
+    text-align: left;
+    background-color: #444;
+}
+
+table th {
+    background-color: #555;
+    color: #fff;
+}
+
+/* Ajoneuvojen kortit */
+.vehicle-card {
+    background-color: #444;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.vehicle-card img {
+    max-width: 120px;
+    border-radius: 4px;
+}
+
+/* Headerin napit responsiivisiksi */
+.navbar button {
+    display: inline-block;
+    text-align: center;
+    width: auto;
+    padding: 10px 15px;
+    background-color: #ddd;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+/* Käyttäjän kuvan koko ja asettelu */
+.navbar img.logo {
+    height: 60px;
+    margin-right: 20px;
+}
+
+/* Sisältöalueen logon koko */
+.logo-main {
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    margin-top: 10px;
+}
+
+/* Responsiivisuus */
+@media screen and (max-width: 600px) {
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navbar {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    main {
+        padding: 20px;
+    }
+}
