@@ -9,4 +9,5 @@
 | 9.4.2025 | 5 | Vaihe 2 | Tehty sivulle toimiva pohja ja  lisätty vähän sisältöä |
 | 10.4.2025 | 3 | Vaihe 2 | Edistetty sivun toimivuutta ja visuaalisesti päivitetty |
 | 11.4.2025 | 7 | Vaihe 2 | Virtuaalikone saatu käyttöön, tyyli tiedoston päivittelyä, aloittelijan opas ja aloitus sivu tehty loppuun, raportin tekoa |
-| 18.4.2025 | 2 | Vaihe 3 | Esittelyn suunnittelua |
+| 18.4.2025 | 2 | Vaihe 4 esittely | Esittelyn suunnittelua |
+| 23.4.2025 | 2 | Vaihe 4 esittely | Esittelyn suunnittelua, Power pointin rakenteen edistämistä |
